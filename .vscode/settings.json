@@ -1,0 +1,43 @@
+{
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {
+    "source.organizeImports": true
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+  },
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+  },
+
+  "workbench.colorCustomizations": {
+    // "activityBar.background": "#00c8ff8f",
+    // "activityBarBadge.background": "#520030",
+    // "activityBar.inactiveForeground": "#a1003e",
+    "activityBar.activeBackground": "#000",
+    "statusBar.background": "#333333",
+    "statusBar.foreground": "#fff"
+  },
+
+  // Theme Customization
+  "background.enabled": true,
+  "background.loop": false,
+  "background.useDefault": false,
+  "background.useFront": false,
+  "background.style": {
+    "content": "''",
+    "pointer-events": "none",
+    "position": "absolute",
+    "z-index": "99999",
+    "width": "50%",
+    "height": "100%",
+    "top": "50%",
+    "left": "50%",
+    "transform": "translate(-50%, -50%)",
+    "margin-left": "0%",
+    "background-position": "center",
+    "background-size": "cover",
+    "background-repeat": "no-repeat",
+    "opacity": 0.1
+  }
+}
